@@ -80,3 +80,17 @@ ul#horizontal {
         letter-spacing: 0px;
     }
 }
+.flex-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    margin-left: 115px;
+}
+.flex-right{
+    display:flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items:flex-end;
+    margin-right: 115px;
+}
