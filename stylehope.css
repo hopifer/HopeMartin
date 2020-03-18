@@ -6,24 +6,7 @@
     margin-bottom:20px;
 
 }
-.leftside{
- 
-    margin-left: 200px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-.rightside{
 
-    margin-top:20px;
-    margin-bottom: 10px;
-    margin-left: 800px;
-    margin-right:auto;
-}
-.rightside1{
-    margin-top:5px;
-    margin-left:1180px;
-    margin-bottom:150px;
-}
 ul#horizontal {
     list-style-type: none;
     min-width: 700px;
